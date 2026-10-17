@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="（仮の画像）白いリネンの上の、たたんだタオル">
+  <rect width="1200" height="900" fill="#F2ECE2"/>
+  <ellipse cx="980" cy="140" rx="260" ry="200" fill="#5F8F7A" opacity=".10"/>
+  <path d="M0 360 C260 330 520 380 760 350 S1100 330 1200 350 V900 H0 Z" fill="#FFFFFF" stroke="#233A32" stroke-width="2"/>
+  <path d="M80 470 C360 440 640 500 900 460 S1120 450 1180 470" fill="none" stroke="#DCEBE3" stroke-width="5"/>
+  <path d="M60 600 C340 570 640 630 920 590 S1120 580 1190 600" fill="none" stroke="#DCEBE3" stroke-width="5"/>
+  <g transform="translate(330 520) scale(4.2)">
+    <rect x="0" y="0" width="64" height="16" rx="8" fill="#FFFFFF" stroke="#233A32" stroke-width=".6"/>
+    <rect x="4" y="-16" width="56" height="16" rx="8" fill="#DCEBE3" stroke="#233A32" stroke-width=".6"/>
+    <rect x="8" y="-32" width="48" height="16" rx="8" fill="#FFFFFF" stroke="#233A32" stroke-width=".6"/>
+  </g>
+  <path d="M760 300 L1200 160 L1200 520 L880 640 Z" fill="#FFF6DF" opacity=".35"/>
+</svg>

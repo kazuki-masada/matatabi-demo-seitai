@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-label="見本の地図（架空）。〇〇駅から徒歩4分の位置に整体 あさなぎの印">
+  <rect width="800" height="520" fill="#FAF7F2"/>
+  <g stroke="#FFFFFF" stroke-width="28" stroke-linecap="round" fill="none">
+    <path d="M60 150 H740"/><path d="M60 330 H740"/><path d="M200 40 V480"/><path d="M460 40 V480"/><path d="M620 40 V480"/>
+  </g>
+  <g stroke="#EFE6D8" stroke-width="4" fill="none"><path d="M60 150 H740"/><path d="M60 330 H740"/><path d="M200 40 V480"/><path d="M460 40 V480"/><path d="M620 40 V480"/></g>
+  <path d="M20 240 H780" stroke="#233A32" stroke-width="10" stroke-dasharray="26 14" opacity=".5"/>
+  <g>
+    <rect x="300" y="200" width="150" height="80" rx="12" fill="#FFFFFF" stroke="#233A32" stroke-width="2"/>
+    <text x="375" y="248" text-anchor="middle" font-family="'Zen Maru Gothic', sans-serif" font-size="22" font-weight="700" fill="#233A32">〇〇駅</text>
+  </g>
+  <g>
+    <circle cx="540" cy="400" r="40" fill="#DCEBE3"/>
+    <path d="M540 350 c-22 0 -36 16 -36 36 c0 26 36 56 36 56 s36 -30 36 -56 c0 -20 -14 -36 -36 -36z" fill="#2F6B55"/>
+    <circle cx="540" cy="386" r="12" fill="#FFFFFF"/>
+    <text x="540" y="470" text-anchor="middle" font-family="'Zen Maru Gothic', sans-serif" font-size="20" font-weight="700" fill="#233A32">整体 あさなぎ</text>
+  </g>
+  <path d="M450 250 Q500 250 520 300 T540 360" fill="none" stroke="#2F6B55" stroke-width="4" stroke-dasharray="8 8"/>
+  <text x="24" y="500" font-family="'M PLUS 2', sans-serif" font-size="16" fill="#8C5A3C">見本の地図です（架空）</text>
+</svg>

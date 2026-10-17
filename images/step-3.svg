@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="（仮の画像）テーブルの上の、セルフケアを書いた紙とペンとお茶">
+  <rect width="1200" height="900" fill="#EFE6D8"/>
+  <ellipse cx="900" cy="160" rx="260" ry="200" fill="#5F8F7A" opacity=".10"/>
+  <rect x="120" y="140" width="960" height="640" rx="40" fill="#8C5A3C" opacity=".18"/>
+  <g transform="rotate(-6 520 460)">
+    <rect x="330" y="230" width="380" height="480" rx="10" fill="#FFFFFF" stroke="#233A32" stroke-width="2"/>
+    <path d="M380 300 h220 M380 340 h270 M380 380 h180" stroke="#DCEBE3" stroke-width="8" stroke-linecap="round"/>
+    <g fill="none" stroke="#2F6B55" stroke-width="3" stroke-linecap="round">
+      <circle cx="430" cy="490" r="26"/><path d="M430 516 v70 M400 540 h60 M430 586 l-24 44 M430 586 l24 44"/>
+      <circle cx="590" cy="490" r="26"/><path d="M590 516 v70 M590 540 l-40 -40 M590 540 l40 -40 M590 586 l-20 44 M590 586 l20 44"/>
+    </g>
+  </g>
+  <path d="M760 620 l200 -150" stroke="#233A32" stroke-width="12" stroke-linecap="round"/>
+  <path d="M960 470 l16 -12" stroke="#8C5A3C" stroke-width="12" stroke-linecap="round"/>
+  <g>
+    <circle cx="880" cy="330" r="70" fill="#FFFFFF" stroke="#233A32" stroke-width="2"/>
+    <circle cx="880" cy="330" r="52" fill="#5F8F7A" opacity=".35"/>
+    <path d="M950 320 a26 26 0 1 1 0 30" fill="none" stroke="#233A32" stroke-width="2"/>
+  </g>
+  <g transform="translate(240 760) scale(.9)">
+  <g transform="translate(0 0) scale(1)">
+    <path d="M-22 0 h44 l-5 46 h-34 z" fill="#EFE6D8" stroke="#233A32" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M0 0 c-6 -26 -30 -34 -46 -30 c4 18 24 32 46 30z" fill="#5F8F7A" opacity=".85"/>
+    <path d="M0 0 c6 -30 30 -40 48 -36 c-2 20 -24 38 -48 36z" fill="#2F6B55" opacity=".85"/>
+    <path d="M0 0 c-2 -34 10 -54 24 -62 c8 20 -2 48 -24 62z" fill="#5F8F7A"/>
+    <path d="M0 2 c-10 -14 -28 -22 -40 -26 M0 2 c8 -16 26 -28 42 -32 M0 2 c4 -22 12 -40 22 -56" fill="none" stroke="#FAF7F2" stroke-width="1.4" opacity=".8"/>
+  </g></g>
+</svg>

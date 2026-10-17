@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" role="img" aria-label="（仮の画像）窓辺の椅子と、かけたカーディガン">
+  <rect width="900" height="1200" fill="#F2ECE2"/>
+  <rect x="0" y="900" width="900" height="300" fill="#EFE6D8"/><path d="M0 922 H900" stroke="#8C5A3C" stroke-width="1" opacity=".18"/><path d="M0 944 H900" stroke="#8C5A3C" stroke-width="1" opacity=".18"/><path d="M0 966 H900" stroke="#8C5A3C" stroke-width="1" opacity=".18"/><path d="M0 988 H900" stroke="#8C5A3C" stroke-width="1" opacity=".18"/><path d="M0 1010 H900" stroke="#8C5A3C" stroke-width="1" opacity=".18"/><path d="M0 1032 H900" stroke="#8C5A3C" stroke-width="1" opacity=".18"/><path d="M0 1054 H900" stroke="#8C5A3C" stroke-width="1" opacity=".18"/><path d="M0 1076 H900" stroke="#8C5A3C" stroke-width="1" opacity=".18"/><path d="M0 1098 H900" stroke="#8C5A3C" stroke-width="1" opacity=".18"/><path d="M0 1120 H900" stroke="#8C5A3C" stroke-width="1" opacity=".18"/><path d="M0 1142 H900" stroke="#8C5A3C" stroke-width="1" opacity=".18"/><path d="M0 1164 H900" stroke="#8C5A3C" stroke-width="1" opacity=".18"/><path d="M0 1186 H900" stroke="#8C5A3C" stroke-width="1" opacity=".18"/>
+  <circle cx="640" cy="260" r="200" fill="#5F8F7A" opacity=".10"/>
+  
+  <g>
+    <path d="M300 308.0 A210.0 189.0 0 0 1 720 308.0 V740 H300 Z" fill="#FFFFFF" stroke="#233A32" stroke-width="2"/>
+    <path d="M510.0 152.0 V740 M300 470.0 H720" stroke="#233A32" stroke-width="1.6" opacity=".55"/>
+    <path d="M350.4 356.0 L476.4 212.0" stroke="#DCEBE3" stroke-width="10" stroke-linecap="round" opacity=".9"/>
+  </g>
+  <path d="M300 320.0 L720 320.0 L531.0 1070.0 L-162.00000000000006 1070.0 Z" fill="#FFF6DF" opacity=".38" style="mix-blend-mode:screen"/>
+  <g>
+    <path d="M250 560 h200 a20 20 0 0 1 20 20 v160 h-240 v-160 a20 20 0 0 1 20 -20z" fill="#8C5A3C" opacity=".85"/>
+    <rect x="220" y="740" width="270" height="34" rx="12" fill="#8C5A3C"/>
+    <path d="M245 774 l-20 190 M465 774 l20 190 M300 774 v150 M410 774 v150" stroke="#8C5A3C" stroke-width="12" stroke-linecap="round"/>
+    <path d="M300 560 c-10 60 -6 150 10 214 h120 c10 -70 8 -150 -6 -214 c-20 30 -40 40 -62 40 c-22 0 -44 -12 -62 -40z" fill="#2F6B55" opacity=".85"/>
+    <path d="M320 600 c10 60 12 120 6 170 M410 600 c-6 60 -8 120 -2 170" fill="none" stroke="#FAF7F2" stroke-width="3" opacity=".6"/>
+  </g>
+  <g>
+    <rect x="560" y="820" width="120" height="16" rx="8" fill="#8C5A3C" opacity=".8"/>
+    <circle cx="610" cy="800" r="22" fill="#FFFFFF" stroke="#233A32" stroke-width="2"/>
+  </g>
+  
+  <g transform="translate(760 860) scale(1.6)">
+    <path d="M-22 0 h44 l-5 46 h-34 z" fill="#EFE6D8" stroke="#233A32" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M0 0 c-6 -26 -30 -34 -46 -30 c4 18 24 32 46 30z" fill="#5F8F7A" opacity=".85"/>
+    <path d="M0 0 c6 -30 30 -40 48 -36 c-2 20 -24 38 -48 36z" fill="#2F6B55" opacity=".85"/>
+    <path d="M0 0 c-2 -34 10 -54 24 -62 c8 20 -2 48 -24 62z" fill="#5F8F7A"/>
+    <path d="M0 2 c-10 -14 -28 -22 -40 -26 M0 2 c8 -16 26 -28 42 -32 M0 2 c4 -22 12 -40 22 -56" fill="none" stroke="#FAF7F2" stroke-width="1.4" opacity=".8"/>
+  </g>
+</svg>
